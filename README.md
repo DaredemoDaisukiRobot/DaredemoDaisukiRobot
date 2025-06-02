@@ -30,10 +30,10 @@ I am focused on enhancing my full-stack development and data analysis skills.
 ## 📫 Contact Me
 
 - 📧 Email: [nonolin1968@gmail.com](mailto:nonolin1968@gmail.com)
-- 💬 [Discord](https://discord.gg/hN2Zanc6t3)
-- 🐱 [GitHub](https://github.com/DaredemoDaisukiRobot)
-- 📘 [Facebook](https://www.facebook.com/profile.php?id=100009383041214)
-- 💚 [LINE](https://line.me/ti/p/WrcfJx_FW4)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hN2Zanc6t3)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaredemoDaisukiRobot)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009383041214)  
+[![LINE](https://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/WrcfJx_FW4)
 
 ---
 
