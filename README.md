@@ -27,6 +27,22 @@ I am focused on enhancing my full-stack development and data analysis skills.
 
 ---
 
+## 🚀 Featured Project
+
+### 🔎 [FactFlow](https://github.com/mdfarid01/FactFlow)
+
+[![FactFlow repository card](https://github-readme-stats.vercel.app/api/pin/?username=mdfarid01&repo=FactFlow&theme=tokyonight)](https://github.com/mdfarid01/FactFlow)
+
+An AI-powered dashboard for real-time misinformation detection and fact-checking, featuring crisis monitoring, sentiment analysis, and a misinformation feed.
+
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+---
+
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-nonolin1968%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nonolin1968@gmail.com)  
