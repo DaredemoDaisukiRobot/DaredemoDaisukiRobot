@@ -8,6 +8,16 @@ I am focused on enhancing my full-stack development and data analysis skills.
 
 ---
 
+## 🕹️ GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub contribution space shooter animation" />
+</p>
+
+This space-shooter animation is generated from my GitHub contributions and updates automatically every day.
+
+---
+
 ## 🔧 Tech Stack
 
 **Frontend**  
